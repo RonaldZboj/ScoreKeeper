@@ -1,0 +1,9 @@
+<resources>
+    <string name="resetAllButton">Resetuj wszystko</string>
+    <string name="teamA">Drużyna A</string>
+    <string name="teamB">Drużyna B</string>
+    <string name="plusOne">+ 1 punkt</string>
+    <string name="minusOne">- 1 Punkt</string>
+    <string name="resetTeamA">Resetuj drużynę A</string>
+    <string name="resetTeamB">Resetuj drużynę B</string>
+</resources>
